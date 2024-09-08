@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="web.css">
+    </head>
+    <body>
+
+        <h1>Musette inventory</h1>
+        <table>
+            <tr>
+            <th>Team</th>
+            <th>Year</th>
+            <th>Category</th>
+            <th>Picture Front</th>
+            <th>Picture Back</th>
+            <th>Difference</th>
+            <th>Kevin</th>
+            <th>Special Edition</th>
+            <th>URL Front</th>
+            <th>URL Back</th>
+            </tr>
+            {% for musette in musette_list %}
+            <tr>
+            <th>{{ musette.team }}</th>
+            <th>{{ musette.year }}</th>
+            <th>{{ musette.category }}</th>
+            {% if musette.picture_front == "" %}
+            <td></td>
+            {% else %}
+            <td><img src="images/{{ musette.picture_front }}"></td>
+            {% endif %}
+            {% if musette.picture_back == "" %}
+            <td></td>
+            {% else %}
+            <td><img src="images/{{ musette.picture_back }}"></td>
+            {% endif %}
+            <th>{{ musette.difference }}</th>
+            <th>{{ musette.kevin }}</th>
+            <th>{{ musette.special }}</th>
+            <th>{{ musette.url_front }}</th>
+            <th>{{ musette.url_back }}</th>
+            </tr>
+            {% endfor %}
+        </table>
+
+    </body>
+</html>
