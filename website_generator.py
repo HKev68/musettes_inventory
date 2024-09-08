@@ -18,7 +18,7 @@ class Musette(dict):
 
 class InventoryGenerator:
     def __init__(self):
-        self.file_name = "inventory_small.csv"
+        self.file_name = "inventory.csv"
         self.musettes_list = []
 
     def import_csv(self):

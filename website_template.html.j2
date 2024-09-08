@@ -24,15 +24,15 @@
             <th>{{ musette.team }}</th>
             <th>{{ musette.year }}</th>
             <th>{{ musette.category }}</th>
-            {% if musette.picture_front == "" %}
+            {% if musette.url_front == "" %}
             <td></td>
             {% else %}
-            <td><img src="images/{{ musette.picture_front }}"></td>
+            <td><img src="{{ musette.url_front }}"></td>
             {% endif %}
-            {% if musette.picture_back == "" %}
+            {% if musette.url_back == "" %}
             <td></td>
             {% else %}
-            <td><img src="images/{{ musette.picture_back }}"></td>
+            <td><img src="{{ musette.url_back }}"></td>
             {% endif %}
             <th>{{ musette.difference }}</th>
             <th>{{ musette.kevin }}</th>
