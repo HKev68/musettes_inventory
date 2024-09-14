@@ -31,7 +31,7 @@ class InventoryGenerator:
     def generate_website(self):
         with open("website_template.html.j2", newline='') as jinja_template:
             website_template = jinja_template.read()
-            website_html = Template(source=website_template).render(musette_list=self.musettes_list)
+            website_html = Template(source=website_template).render(musette_list=self.musettes_list[0:100])
             print(website_html)
         with open("index.html", "w") as text_file:
             text_file.write(website_html)
