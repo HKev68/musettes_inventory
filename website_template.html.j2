@@ -1,19 +1,17 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <link rel="stylesheet" href="web.css">
-        <link rel="stylesheet" href="https://cdn.datatables.net/2.1.6/css/dataTables.dataTables.css" />
-        <script src="https://cdn.datatables.net/2.1.6/js/dataTables.js"></script>
-        <script>
-            new DataTable('#myTable', {
-                fixedHeader: true
-            });
-        </script>
-    </head>
-    <body>
+  <head>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 
-        <h1>Musette inventory</h1>
-        <table id="myTable" class="display">
+    <link href="https://nightly.datatables.net/css/dataTables.dataTables.css" rel="stylesheet" type="text/css" />
+    <script src="https://nightly.datatables.net/js/dataTables.js"></script>
+
+    <meta charset=utf-8 />
+    <title>DataTables - JS Bin</title>
+  </head>
+  <body>
+    <div class="container">
+      <table id="example" class="display nowrap" width="100%">
             <thead>
                 <tr>
                     <th>Team</th>
@@ -53,6 +51,9 @@
                 {% endfor %}
             </tbody>
         </table>
-
-    </body>
+    </div>
+    <script>
+        var table = new DataTable('#example');
+    </script>
+  </body>
 </html>
