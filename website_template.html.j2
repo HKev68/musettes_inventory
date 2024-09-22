@@ -31,8 +31,8 @@
                   <th>{{ musette.team }}</th>
                   <th>{{ musette.year }}</th>
                   <th>{{ musette.category }}</th>
-                  {% if musette.url_front == "" %}<td></td>{% else %}<td><img src="{{ musette.url_front }}"></td>{% endif %}
-                  {% if musette.url_back == "" %}<td></td>{% else %}<td><img src="{{ musette.url_back }}"></td>{% endif %}
+                  {% if musette.url_front == "" %}<td></td>{% else %}<td><a href="" onclick="window.open('{{ musette.url_front }}','targetWindow', 'toolbar=no, location=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1090px, height=550px, top=25px left=120px'); return false;"><img src="{{ musette.url_front }}"></a></td>{% endif %}  
+                  {% if musette.url_back == "" %}<td></td>{% else %}<td><a href="" onclick="window.open('{{ musette.url_back }}','targetWindow', 'toolbar=no, location=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1090px, height=550px, top=25px left=120px'); return false;"><img src="{{ musette.url_back }}"></a></td>{% endif %}  
                   <th>{{ musette.difference }}</th>
                   <th>{{ musette.kevin }}</th>
                   <th>{{ musette.special }}</th>
