@@ -1,0 +1,63 @@
+name: Add a musette
+description: This issue is a request to add a new musette to the list
+title: "[Musette]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping the inventory!
+  - type: input
+    id: team
+    attributes:
+      label: Team name
+      placeholder: Team
+    validations:
+      required: true
+  - type: dropdown
+    id: year
+    attributes:
+      label: Year
+      options:
+        - "2024"
+        - "2023"
+        - "2022"
+        - "2021"
+        - "2020"
+        - "2019"
+        - "2018"
+        - "2017"
+        - "2016"
+        - "2015"
+        - "2014"
+        - "2013"
+        - "2012"
+        - "2011"
+        - "2010"
+        - earlier
+    validations:
+      required: true
+  - type: textarea
+    id: difference
+    attributes:
+      label: Difference to previous year
+      description: Specify what is different on this musette, with the position and the sponsor added/missing
+      placeholder: Type here
+    validations:
+      required: true
+  - type: dropdown
+    id: special-edition
+    attributes:
+      label: Is it a special edition?
+      options:
+        - "Tour de France"
+        - "Giro d'Italia"
+        - "Vuelta Espana"
+        - "Other"
+    validations:
+      required: False
+  - type: input
+    id: special-edition-race
+    attributes:
+      label: Specify the race if it is not a Grand Tour
+    validations:
+      required: false
