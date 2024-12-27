@@ -22,9 +22,13 @@ class InventoryGenerator:
         self.musettes_list = []
 
     def import_csv(self):
-        with open(self.file_name, newline='') as csvfile:
+        with open(self.file_name, newline='', errors="ignore") as csvfile:
             musettes_list = csv.reader(csvfile, delimiter=';', quotechar='|')
             for team, year, category, picture_front, picture_back, difference, kevin, special, url_front, url_back in musettes_list:
+                if url_front != "" and not url_front.startswith("http"):
+                    url_front = "images/" + url_front + ".png"
+                if url_back != "" and not url_back.startswith("http"):
+                    url_back = "images/" + url_back + ".png"  
                 mus = Musette(team, year, category, picture_front, picture_back, difference, kevin, special, url_front, url_back)
                 self.musettes_list.append(mus)
 
