@@ -1205,7 +1205,7 @@ Cannondale;2014;UCI WorldTour;;;Only 3 small logos;;;http://www.zonadeavituallam
 Team Ecuador;2014;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Ecuador14(2).jpg;
 Efapel-Glassdrive;2014;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Efapel14(1).jpg;
 Efapel-Glassdrive;2014;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Efapel14(2).jpg;
-Euskaltel-Euskadi;2014;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Euskadi14.jpg;
+Euskaltel-Euskadi;2014;UCI Europa Tour Continental;;;x;x;;http://www.zonadeavituallamiento.es/images/Euskadi14.jpg;
 FDJ.fr;2014;UCI WorldTour;;;x;;;http://www.zonadeavituallamiento.es/images/FDJ14.jpg;
 Garmin-Sharp;2014;UCI WorldTour;;;x;;;http://www.zonadeavituallamiento.es/images/Garmin14.jpg;
 Team Giant-Shimano;2014;UCI WorldTour;;;x;;;http://www.zonadeavituallamiento.es/images/Giant-Shimano14.jpg;
@@ -1514,7 +1514,7 @@ Team Dimension Data;2018;UCI WorldTour;;;Same front and back?;;;http://www.zonad
 Direct Energie;2018;UCI Europa Tour Continental Profesional;;;No ultimum;;;http://www.zonadeavituallamiento.es/images/Direct-Energie18.jpg;
 Efapel;2018;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Efapel18(1).jpg;
 Elkov-Author;2018;UCI Europa Tour Continental;;;Dark blue;;;http://www.zonadeavituallamiento.es/images/Elkov18.jpg;
-Team Euskadi;2018;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Euskadi18.jpg;
+Team Euskadi;2018;UCI Europa Tour Continental;;;x;x;;http://www.zonadeavituallamiento.es/images/Euskadi18.jpg;
 Team Fortuneo-Samsic;2018;UCI Europa Tour Continental Profesional;;;x;;;http://www.zonadeavituallamiento.es/images/Fortuneo-Samsic18.jpg;
 Zappi's Racing Team;2018;UCI Europa Tour Continental;;;Smaller logo;;;http://www.zonadeavituallamiento.es/images/Holdsworth18(1).jpg;
 Team Katusha Alpecin;2018;UCI WorldTour;;;x;;;http://www.zonadeavituallamiento.es/images/Katusha18(1).jpg;
@@ -1659,13 +1659,13 @@ Bicicletas Strongman;2019;;;;x;;;https://lakarra.net/wp-content/uploads/2020/04/
 BRETAGNE;2019;;;;x;;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-bretagne.jpg;
 Swiss cycling academy;2019;Nation;;;No Swiss Premium Nutrition;;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-dt-swiss-racing-suiza-winforce.jpg;
 France;2019;;;;Darker red?;;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-francia-france-overstim.jpg;
-Great Britain;2019;Nation;;;x;;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-gbr-great-britain.jpg;
+Great Britain;2019;Nation;;;x;x;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-gbr-great-britain.jpg;
 Hagens Berman Axeon;2019;;;;Only 5 sponsors at the bottom;;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-hagens-berman-neon-axeon.jpg;
 Holdsworth Zappi Team;2019;;;;x;;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-holdsworth-campagnolo.jpg;
 Japan;2019;Nation;;;x;;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-japan-cycling.jpg;
 Kiwi Guerciotti;2019;;;;x;;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-kiwi-gerciotti.jpg;
 LA Aluminios;2019;;;;x;;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-la-aluminios.jpg;
-LA Aluminios;2019;;;;la.pt bottom right;;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-la-aluminios-volta.jpg;
+LA Aluminios;2019;;;;la.pt bottom right;x;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-la-aluminios-volta.jpg;
 Leopard Pro Cycling;2019;UCI Europa Tour Continental;;;x;;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-leopard.jpg;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-leopard-trasera.jpg
 Lokosphinx;2019;;;;;;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-ls-lokosphinx.jpg;
 Miranda Mortagua;2019;;;;Single logo bottom;;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-miranda-mortagua-2.jpg;
@@ -1686,7 +1686,7 @@ Metec Solarwatt;2019;;;;x;;;https://lakarra.net/wp-content/uploads/2020/04/muset
 Beltrami TSA;2019;;;;x;;;https://lakarra.net/wp-content/uploads/2020/12/musette-2019-beltrami-tsa-hoppla.jpeg;
 Cm benros;2019;;;;x;;;https://lakarra.net/wp-content/uploads/2020/12/musette-2019-cm-benros.jpeg;
 DNA cycling;2019;;;;x;;;https://lakarra.net/wp-content/uploads/2020/12/musette-2019-dna.jpeg;
-Voster ATS;2019;;;;ATS ;;;https://lakarra.net/wp-content/uploads/2020/12/musette-2019-voster-ats-dmtex.jpeg;
+Voster ATS;2019, 2020;;;;ATS ;;;https://lakarra.net/wp-content/uploads/2020/12/musette-2019-voster-ats-dmtex.jpeg;
 Team Vorarlberg-Santic;2019;UCI Europa Tour Continental;Same as previous year;;x;;;https://www.facebook.com/photo/?fbid=2263976380557643&set=a.2228225577466057;
 Meitan;2019;;;;x;;;meitan_19;
 MyBike Stevens;2019;;;;x;;;mybike_19;
@@ -1701,7 +1701,7 @@ Beltrami TSA;2020;;;;x;;;beltrami_20;
 Team Colpack Ballan;2020;;;;x;x;;colpack_20;
 Denmark;2020;Nation;;;x;;;denmark_20;
 EF Education;2020;UCI WorldTeam;;;x;;Giro;ef_giro_20;
-EF Education;2020;UCI WorldTour;;;x;;;http://www.zonadeavituallamiento.es/images/EF20(a).jpg;http://www.zonadeavituallamiento.es/images/EF20(b).jpg
+EF Education;2020, 2021;UCI WorldTour;;;x;x;;http://www.zonadeavituallamiento.es/images/EF20(a).jpg;http://www.zonadeavituallamiento.es/images/EF20(b).jpg
 EmiliaRomagna;2020;;;;x;;;emilia_20;
 France;2020;;;;x;;;france_20;
 Team Arkea-Samsic;2020;UCI ProTeam;;;Black lines - bottom;;;http://www.zonadeavituallamiento.es/images/Arkea19.jpg;
@@ -1753,79 +1753,78 @@ Colnago CM Team;2020;;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/muset
 SKODA TOUR DOWN UNDER;2020;;;;;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2020-skoda-tour-down-under.jpeg;
 St Michel - Auber93;2020;;;;dmtex;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2020-st-michel-auber-93-dmtex.jpeg;
 BIGLA KATUSHA;2020;;;;x;;;https://lakarra.net/wp-content/uploads/2023/02/musette-2020-bigla-katusha-pauleka.jpeg;
-Voster ATS;2020;;Same as previous year;;x;;;https://www.facebook.com/photo/?fbid=2733843620237581&set=a.2520039941617951;
 Ale BTC Ljubjana;2020;UCI Equipo Femenino;;;x;;;ljubjana_20;
 Russia;2020;;;;x;;;russia_20;
 Turkey;2020;;;;;;;turkey_20;
-Australia;2021;Nation;;;x;;;australia_21;
+Australia;2021;Nation;;;x;x;;australia_21;
 Beltrami TSA;2021;;;;x;;;beltrami_21;
 Best PC Ecuador;2021;;;;x;;;bestpc_21;
 Black Spoke;2021;;;;x;;;black_spoke_21;
-;2021;;;;;;;bmc_21;
+BMC;2021;;;;;;;bmc_21;
 Ceratizit WNT;2021;;;;Ceratizit WNT;;;ceratizit_21;
 D'Amico - UM Tools;2021;UCI Europa Tour Continental;;;x;;;damico_21;
 Denmark;2021;Nation;;;x;x;;denmark_21;
 Ecuador;2021;;;;x;;;ecuador_21;
 Epronex;2021;;;;x;;;epronex_21;
-Give Elementer;2021;;;;x;;;give_elementer_21;
+Give Elementer;2021;;;;x;x;;give_elementer_21;
 Petroli Firenze - Hoppla - Don Camillo;2021;Club;;;x;;;hoppla_21;
-Team Arkea-Samsic;2021;UCI ProTeam;;;x;;;http://www.zonadeavituallamiento.es/images/Arkea21.jpg;
-Bahrain-Victorious;2021;UCI WorldTeam;;;Ale - middle;;;http://www.zonadeavituallamiento.es/images/Bahraiin-Victorius21(a).jpg;http://www.zonadeavituallamiento.es/images/Bahraiin-Victorius21(b).jpg
-Bahrain-Victorious;2021;UCI WorldTeam;;;Nalini - middle;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-bahrain-victorious-nalini.jpeg;
-Team BikeExchange;2021;UCI WorldTeam;;;x;;;http://www.zonadeavituallamiento.es/images/Bike-Exchange21.jpg;
-Bora-Hansgrohe;2021;UCI  WorldTeam;;;x;;;http://www.zonadeavituallamiento.es/images/Bora20(2).jpg;
-Bora-Hansgrohe;2021;UCI  WorldTeam;;;x;;;http://www.zonadeavituallamiento.es/images/Bora21(a).jpg;http://www.zonadeavituallamiento.es/images/Bora21(b).jpg
-Caja Rural-Seguros RGA;2021;UCI ProTeams;;;Small ulevel;;;http://www.zonadeavituallamiento.es/images/Caja-Rural21.jpg;
-Cofidis;2021;UCI WorldTeam;;;x;;Tour;http://www.zonadeavituallamiento.es/images/Cofidis21(1).jpg;
-Cofidis;2021;UCI WorldTeam;;;x;;Vuelta;http://www.zonadeavituallamiento.es/images/Cofidis21(2).jpg;
-Cofidis;2021;UCI WorldTeam;;;x;;Giro;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-cofidis-rosa-pink-giro.jpeg;
+Team Arkea-Samsic;2021;UCI ProTeam;;;x;x;;http://www.zonadeavituallamiento.es/images/Arkea21.jpg;
+Bahrain-Victorious;2021;UCI WorldTeam;;;Ale - middle;x;;http://www.zonadeavituallamiento.es/images/Bahraiin-Victorius21(a).jpg;http://www.zonadeavituallamiento.es/images/Bahraiin-Victorius21(b).jpg
+Bahrain-Victorious;2021;UCI WorldTeam;;;Nalini - middle;x;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-bahrain-victorious-nalini.jpeg;
+Team BikeExchange;2021;UCI WorldTeam;;;x;x;;http://www.zonadeavituallamiento.es/images/Bike-Exchange21.jpg;
+Bora-Hansgrohe;2021;UCI  WorldTeam;;;x;x;;http://www.zonadeavituallamiento.es/images/Bora20(2).jpg;
+Bora-Hansgrohe;2021;UCI  WorldTeam;;;x;x;;http://www.zonadeavituallamiento.es/images/Bora21(a).jpg;http://www.zonadeavituallamiento.es/images/Bora21(b).jpg
+Caja Rural-Seguros RGA;2021;UCI ProTeams;;;Small ulevel;x;;http://www.zonadeavituallamiento.es/images/Caja-Rural21.jpg;
+Cofidis;2021;UCI WorldTeam;;;x;x;Tour;http://www.zonadeavituallamiento.es/images/Cofidis21(1).jpg;
+Cofidis;2021;UCI WorldTeam;;;x;x;Vuelta;http://www.zonadeavituallamiento.es/images/Cofidis21(2).jpg;
+Cofidis;2021;UCI WorldTeam;;;x;x;Giro;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-cofidis-rosa-pink-giro.jpeg;
 Cofidis;2021;UCI WorldTeam;;;x;;14 juillet;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-cofidis-tour-france-francia.jpeg;
-Team DSM;2021;UCI WorldTeam;;;x;;;http://www.zonadeavituallamiento.es/images/DSM21(a).jpg;http://www.zonadeavituallamiento.es/images/DSM21(b).jpg
-EF Education-Nippo;2021;UCI WorldTeam;;;x;;;http://www.zonadeavituallamiento.es/images/EF21(a).jpg;http://www.zonadeavituallamiento.es/images/EF21(b).jpg
-EF Education-Nippo;2021;UCI WorldTeam;;;x;;Giro;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-ef-education-first-nippo-giro.jpeg;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-ef-education-first-nippo-giro-trasera.jpeg
+Team DSM;2021;UCI WorldTeam;;;x;x;;http://www.zonadeavituallamiento.es/images/DSM21(a).jpg;http://www.zonadeavituallamiento.es/images/DSM21(b).jpg
+EF Education-Nippo;2021;UCI WorldTeam;;;x;x;;http://www.zonadeavituallamiento.es/images/EF21(a).jpg;http://www.zonadeavituallamiento.es/images/EF21(b).jpg
+EF Education-Nippo;2021;UCI WorldTeam;;;x;x;Giro;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-ef-education-first-nippo-giro.jpeg;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-ef-education-first-nippo-giro-trasera.jpeg
 Efapel;2021;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Efapel21.jpg;
 Electro Hiper Europa;2021;UCI Continental Team;;;x;;;http://www.zonadeavituallamiento.es/images/Electro21.jpg;
-Eolo-Kometa Cycling Team;2021;UCI ProTeam;;;x;;;http://www.zonadeavituallamiento.es/images/Eolo21.jpg;
+Eolo-Kometa Cycling Team;2021;UCI ProTeam;;;x;x;;http://www.zonadeavituallamiento.es/images/Eolo21.jpg;
 Euskaltel-Euskadi;2021;UCI ProTeam;;;x;;;http://www.zonadeavituallamiento.es/images/Euskaltel21(a).jpg;http://www.zonadeavituallamiento.es/images/Euskaltel21(b).jpg
 Groupama-FDJ;2021;UCI  WorldTeam;;;Lighter blue;;;http://www.zonadeavituallamiento.es/images/Groupama-FDJ2021.jpg;
-Ineos-Grenadiers;2021;UCI WorldTeam;;;x;;;http://www.zonadeavituallamiento.es/images/Ineos21.jpg;
-Israel Start-Up Nation;2021;UCI WorldTeam;;;x;;;http://www.zonadeavituallamiento.es/images/Israel21.jpg;
+Ineos-Grenadiers;2021;UCI WorldTeam;;;x;x;;http://www.zonadeavituallamiento.es/images/Ineos21.jpg;
+Israel Start-Up Nation;2021;UCI WorldTeam;;;x;x;;http://www.zonadeavituallamiento.es/images/Israel21.jpg;
 Israel Cycling Academy;2021;UCI Continental Team;;;x;;;http://www.zonadeavituallamiento.es/images/Israel-Cycling-Academy21.jpg;
-Jumbo-Visma;2021;UCI WorldTeam;;;Vifit bottom right;;;http://www.zonadeavituallamiento.es/images/Jumbo21.jpg;
-Equipo Kern Pharma;2021;UCI Europa Tour Continental;;;Globalia bottom;;;http://www.zonadeavituallamiento.es/images/Kern21(a).jpg;http://www.zonadeavituallamiento.es/images/Kern21(b).jpg
-Team Qhubeka Nexthash;2021;UCI WorldTeam;;;Assos bottom;;;http://www.zonadeavituallamiento.es/images/Qhubeka21.jpg;
+Jumbo-Visma;2021;UCI WorldTeam;;;Vifit bottom right;x;;http://www.zonadeavituallamiento.es/images/Jumbo21.jpg;
+Equipo Kern Pharma;2021;UCI Europa Tour Continental;;;Globalia bottom;x;;http://www.zonadeavituallamiento.es/images/Kern21(a).jpg;http://www.zonadeavituallamiento.es/images/Kern21(b).jpg
+Team Qhubeka Nexthash;2021;UCI WorldTeam;;;Assos bottom;x;;http://www.zonadeavituallamiento.es/images/Qhubeka21.jpg;
 Radio Popular-Boavista;2021;UCI Europa Tour Continental;;;Same design but cotton ?;x;;http://www.zonadeavituallamiento.es/images/Radio-Popular1822(a).jpg;http://www.zonadeavituallamiento.es/images/Radio-Popular1822(b).jpg
-Rally Cycling;2021;UCI Continental Femenino;;;x;;;http://www.zonadeavituallamiento.es/images/Rally21(1).jpg;
-TotalEnergies;2021;UCI ProTeams;;;x;;;http://www.zonadeavituallamiento.es/images/Total21.jpg;
+Rally Cycling;2021;UCI Continental Femenino;;;x;x;;http://www.zonadeavituallamiento.es/images/Rally21(1).jpg;
+TotalEnergies;2021;UCI ProTeams;;;x;x;;http://www.zonadeavituallamiento.es/images/Total21.jpg;
 Trek-Segafredo;2021;UCI Women's WorldTeam;;;x;;;http://www.zonadeavituallamiento.es/images/Trek-Femenino21.jpg;
-Trek-Segafredo;2021;UCI WorldTeam;;;Sram + Santini - bottom;;;http://www.zonadeavituallamiento.es/images/Trek-Segafredo21.jpg;
-UAE Team Emirates;2021;UCI WorldTeam;;;x;;;http://www.zonadeavituallamiento.es/images/UAE21.jpg;http://www.zonadeavituallamiento.es/images/UAE21(b).jpg
+Trek-Segafredo;2021;UCI WorldTeam;;;Sram + Santini - bottom;x;;http://www.zonadeavituallamiento.es/images/Trek-Segafredo21.jpg;
+UAE Team Emirates;2021;UCI WorldTeam;;;x;x;;http://www.zonadeavituallamiento.es/images/UAE21.jpg;http://www.zonadeavituallamiento.es/images/UAE21(b).jpg
 Efapel;2021;UCI Europa Tour Continental;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-efapel-prio-anicolor-vuelta.jpeg;
 Ale BTC Ljubjana;2021;UCI Equipo Femenino;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-ale-btc-ljubljana.jpeg;
 Amore & Vita;2021;;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-amore-vita.jpeg;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-amore-vita-velo-trasera.jpeg
 Antarte - Feirense;2021;UCI Europa Tour Continental;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-antarte-feirense.jpeg;
 Atum General/Tavira;2021;UCI Europa Tour Continental;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-atum-general-tavira.jpeg;
-B&B Hotels Vital Concept;2021;UCI Europa Tour Continental Profesional;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-bb-hotels-vital-concept.jpeg;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-bb-hotels-vital-concept-men-in-glaz-trasera.jpeg
-Beat Cycling Club;2021;;;;White AGU bottom right;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-beat.jpeg;
+B&B Hotels Vital Concept;2021;UCI Europa Tour Continental Profesional;;;x;x;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-bb-hotels-vital-concept.jpeg;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-bb-hotels-vital-concept-men-in-glaz-trasera.jpeg
+Beat Cycling Club;2021;;;;White AGU bottom right;x;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-beat.jpeg;
 Atum General/Tavira;2021;UCI Europa Tour Continental;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-conservas-ramirez-tavira.jpeg;
-Delko;2021;UCI Europa Tour Continental Profesional;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-delko-infisport.jpeg;
+Delko;2021;UCI Europa Tour Continental Profesional;;;x;x;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-delko-infisport.jpeg;
 Team DSM;2021;UCI Equipo Femenino;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-dsm-women.jpeg;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-dsm-women-trasera.jpeg
 Elkov Kasper;2021;UCI Europa Tour Continental;;;Kasper middle;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-elkov-elektro-kasper.jpeg;
-Gazprom-Rusvelo;2021;UCI Europa Tour Continental Profesional;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-gazprom-rusvelo.jpeg;
-Hagens Berman Axeon;2021;;;;Pinarello bottom;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-hagens-berman-neon.jpeg;
+Gazprom-Rusvelo;2021;UCI Europa Tour Continental Profesional;;;x;x;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-gazprom-rusvelo.jpeg;
+Hagens Berman Axeon;2021;;;;Pinarello bottom;x;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-hagens-berman-neon.jpeg;
 IRELAND ;2021;;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-ireland-irlanda.jpeg;
-Jumbo Visma Devo;2021;;;;Calvé bottom right;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-jumbo-visma-hema-food-coach-calve-continental.jpeg;
+Jumbo Visma Devo;2021;;;;Calvé bottom right;x;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-jumbo-visma-hema-food-coach-calve-continental.jpeg;
 Kelly-Simoldes-Udo;2021;;;;Green kelly;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-kelly-oliveirense-simoldes.jpeg;
-Aviludo-Louletano;2021;;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-louletano-loule-concelho.jpeg;
-Mazowse;2021;;;;Enervit;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-mazowsze-enervit.jpeg;
+Aviludo-Louletano;2021;;;;x;x;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-louletano-loule-concelho.jpeg;
+Mazowse;2021;;;;Enervit;x;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-mazowsze-enervit.jpeg;
 Team Qhubeka Nexthash;2021;;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-qhubeka-duursport.jpeg;
-Tarteletto-Isorex;2021;;;;AGS bottom;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-tartelettto-isorex-ags.jpeg;
+Tarteletto-Isorex;2021;;;;AGS bottom;x;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-tartelettto-isorex-ags.jpeg;
 Tavfer Mortagua;2021;;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-tavfer-measindot-mortagua.jpeg;
 Tokyo 2020;2021;Olympics;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-tokyo-2020.jpeg;
 Uno-X Pro Cycling Team;2021;UCI ProTeam;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-unox.jpeg;
 Vini Zabu;2021;UCI Europa Tour Continental Profesional;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-vini-zabu.jpeg;
-W52/FC Porto;2021;UCI Europa Tour Continental;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-w52-fc-porto-bolflex-reconco.jpeg;
-W52/FC Porto;2021;UCI Europa Tour Continental;;;Reconco middle;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-w52-fc-porto-reconco.jpeg;
+W52/FC Porto;2021;UCI Europa Tour Continental;;;x;x;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-w52-fc-porto-bolflex-reconco.jpeg;
+W52/FC Porto;2021;UCI Europa Tour Continental;;;Reconco middle;x;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-w52-fc-porto-reconco.jpeg;
 USA;2021;;;;x;;;https://lakarra.net/wp-content/uploads/2023/01/musette-2022-usa-cycling.jpeg;
 Valverde Team-Terra Fecundis;2021;;;;x;;;https://lakarra.net/wp-content/uploads/2023/01/musette-2022-valverde-team-terrafecundis.jpeg;
 Ineos Grenadiers;2021;UCI WorldTeam;;;x;;;ineos_21;
@@ -1914,7 +1913,7 @@ W52/FC Porto;2022;UCI Europa Tour Continental;;;x;;;https://lakarra.net/wp-conte
 WB Morbihan;2022;;;;x;;;https://lakarra.net/wp-content/uploads/2023/01/musette-2022-wb-fybolia-morbihan.jpeg;
 Work Group Service;2022;;;;x;;;https://lakarra.net/wp-content/uploads/2023/01/musette-2022-work-group-service-saby-negro.jpeg;
 YOWAMUSHI PEDAL;2022;;;;;;;https://lakarra.net/wp-content/uploads/2023/01/musette-2022-yowamushi-pedal.jpeg;
-Team Jumbo-Visma Devo;2022;;;;Valkenburg bottom right;;;https://lakarra.net/wp-content/uploads/2023/02/musette-2022-jumbo-valkenburg-parkhotel.jpeg;
+Team Jumbo-Visma Devo;2022;;;;Valkenburg bottom right;x;;https://lakarra.net/wp-content/uploads/2023/02/musette-2022-jumbo-valkenburg-parkhotel.jpeg;
 Swiss;2022;Nation;Same as previous year;;x;;;https://www.facebook.com/photo/?fbid=3104581916497081&set=a.3077362349219038;
 Norway;2022;Nation;Same as previous year;;x;;;https://www.facebook.com/photo/?fbid=3140466592908613&set=a.3077362349219038;
 Ireland;2022;;Same as previous year;;x;;;https://www.facebook.com/photo/?fbid=3227086917579913&set=a.3077362349219038;
@@ -2025,7 +2024,7 @@ Trinity;2023;;;;x;;;trinity_23;
 Team Ukyo;2023;UCI Asia Tour Continental;;;x;x;;ukyo_23;
 Wibatech Santic;2023;;;;x;x;;wibatech_23;
 AG Insurance;2024;Women;;;No quick step middle;x;;ag_24;
-Alpecin Deceuninck;2024;;;;;;Tour;alpecin_tdf;
+Alpecin Deceuninck;2024;WT;;;x;;Tour;alpecin_tdf;
 AR Monex;2024;;;;x;;;ar_24;
 Arabay;2024;;;;;;;arabay_24;
 Arkea B&B;2024;UCI WorldTeam;;;x;x;;arkea_24;
@@ -2410,7 +2409,7 @@ Team Stuttgart;2015, 2016;UCI Europa Tour Continental;;;x;;;http://www.zonadeavi
 Topsport Vlaanderen-Baloise;2015, 2016;UCI Europa Tour Continental Profesional;;;Topsport Vlaanderen;;;http://www.zonadeavituallamiento.es/images/Topsport1516.jpg;
 Wallonie-Bruxelles;2015, 2016;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Wallonie-Bruxelles15(a).jpg;http://www.zonadeavituallamiento.es/images/Wallonie-Bruxelles15(b).jpg
 Veranda's Willems Cycling Team;2015, 2016;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Willems15.jpg;
-Swiss;2015, 2016;Nation;;;x;;;https://lakarra.net/wp-content/uploads/2019/12/musette-2015-swiss-cycling.jpg;https://lakarra.net/wp-content/uploads/2019/12/musette-2015-swiss-cycling-trasera-sponser.jpg
+Swiss;2015, 2016;Nation;;;x;x;;https://lakarra.net/wp-content/uploads/2019/12/musette-2015-swiss-cycling.jpg;https://lakarra.net/wp-content/uploads/2019/12/musette-2015-swiss-cycling-trasera-sponser.jpg
 Cofidis, solutions crédits;2015, 2016;UCI Europa Tour Continental Profesional;;;x;;;http://www.zonadeavituallamiento.es/images/Cofidis15.jpg;
 Team FixIt.no;2015, 2016, 2017;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Fixit1516.jpg;
 Rietumu-Delfin;2015, 2016, 2017;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Rietumu15.jpg;
@@ -2488,10 +2487,10 @@ Luxembourg;2019, 2020;;;;x;;;https://lakarra.net/wp-content/uploads/2020/04/muse
 Pauwels;2019, 2020;;;;x;;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-pauwels-sauzen-bingoal.jpg;
 Sojasun;2019, 2020;;;;x;;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-sojasun.jpg;
 Androni Giocattoli-Sidermec;2019, 2020, 2021;UCI Europa Tour Continental Profesional;;;inkospor top left;;;http://www.zonadeavituallamiento.es/images/Androni19.jpg;
-Deceuninck-Quick-Step;2019, 2020, 2021;UCI WorldTour;;;x;;;http://www.zonadeavituallamiento.es/images/Deceuninck19.jpg;
+Deceuninck-Quick-Step;2019, 2020, 2021;UCI WorldTour;;;x;x;;http://www.zonadeavituallamiento.es/images/Deceuninck19.jpg;
 Canyon-DHB;2019, 2020, 2021;;;;x;;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-canyon-dhb.jpg;
-Alpecin-Fenix;2020, 2021;PRT;;;X;;;http://www.zonadeavituallamiento.es/images/Alpecin2021.jpg;
-Movistar Team;2020, 2021;UCI WorldTour;;;x;;;http://www.zonadeavituallamiento.es/images/Movistar20.jpg;
+Alpecin-Fenix;2020, 2021;PRT;;;x;x;;http://www.zonadeavituallamiento.es/images/Alpecin2021.jpg;
+Movistar Team;2020, 2021;UCI WorldTour;;;x;x;;http://www.zonadeavituallamiento.es/images/Movistar20.jpg;
 FDJ-Futuroscope;2020, 2021;;;;x;;;https://lakarra.net/wp-content/uploads/2021/02/musette-2020-fdj-women.jpeg;https://lakarra.net/wp-content/uploads/2021/02/musette-2020-fdj-women-trasera-poli.jpeg
 Team Novo Nordisk;2020, 2021;;;;blue pro cycling bottom;;;https://lakarra.net/wp-content/uploads/2021/02/musette-2020-novo-nordisk.jpeg;https://lakarra.net/wp-content/uploads/2021/02/musette-2020-novo-nordisk-trasera.jpeg
 Team Vorarlberg-Santic;2020, 2021;UCI Europa Tour Continental;;;x;;;https://lakarra.net/wp-content/uploads/2021/02/musette-2020-vorarlberg.jpeg;
@@ -2502,14 +2501,14 @@ Trinity;2020, 2021, 2022;;;;x;x;;https://lakarra.net/wp-content/uploads/2023/01/
 Italia;2020, 2021, 2022;Nation;;;No italian stripes;;;italia_20;
 Groupama-FDJ;2020, 2022;UCI  WorldTour;;;x;x;;http://www.zonadeavituallamiento.es/images/Groupama-FDJ20.jpg;
 Bingoal WB;2020, 2023;UCI ProTeam;;;x;;;http://www.zonadeavituallamiento.es/images/Vermarc20.jpg;
-Astana Premier Tech;2021, 2022;UCI WorldTour;;;x;;;http://www.zonadeavituallamiento.es/images/Astana21.jpg;
+Astana Premier Tech;2021, 2022;UCI WorldTour;;;x;x;;http://www.zonadeavituallamiento.es/images/Astana21.jpg;
 Team Colpack Ballan;2021, 2022;;;;x;x;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-colpack-ballan-rosti-black.jpeg;
 Intemarché-Wanty-Gobert Matériaux;2021, 2022, 2023;UCI WorldTeam;Same as previous year;;x;;;http://www.zonadeavituallamiento.es/images/3Action21.jpg;
 Ag2r Citroen Team;2021, 2022, 2023;UCI WorldTeam;;;x;x;;http://www.zonadeavituallamiento.es/images/Ag2r21.jpg;
 Burgos-BH;2021, 2022, 2023;UCI ProTeam;;;x;x;;http://www.zonadeavituallamiento.es/images/Burgos21.jpg;
 Supermercados Froiz;2021, 2022, 2023;Elite-Sub23;;;x;;;http://www.zonadeavituallamiento.es/images/Super-Froiz22.jpg;
 Espana;2021, 2022, 2023;Nation;;;x;x;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-espan%CC%83a-inverse.jpeg;
-St Michel - Auber93;2021, 2022, 2023;;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-st-michel-auber.jpeg;
+St Michel - Auber93;2021, 2022, 2023;;;;x;x;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-st-michel-auber.jpeg;
 Metec Solarwatt;2021, 2022, 2023, 2024;;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-metec-mantel-solarwatt.jpeg;
 Project Echelon;2021, 2022, 2023, 2024;;;;x;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2021-project-echelon.jpeg;
 Astana Qazaqstan Team;2022, 2023;UCI WorldTeam;;;x;x;;http://www.zonadeavituallamiento.es/images/Astana22.jpg;
@@ -2587,3 +2586,4 @@ OFM-Quinta da Lixa;;;;;;;;ofm;
 Passing;;;;;x;;;passing;
 Team Saleine;;;;;;;;saleine;
 Trek-Segafredo;;;;;;;;trek;
+Voster ATS;2021;;;;dmtex no logo;x;;;
