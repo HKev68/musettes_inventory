@@ -789,7 +789,7 @@ Ag2r La Mondiale;2008;UCI ProTour;;;x;;;https://lakarra.net/wp-content/uploads/2
 Agilsport;2008;;;;x;;;https://lakarra.net/wp-content/uploads/2019/12/agilsport-musette-2008.jpg;
 Germany;2008;Nation;;;x;;;https://lakarra.net/wp-content/uploads/2019/12/bdr-musette-2008.jpg;
 Benfica;2008;UCI Europa Tour Continental Profesional;;;Dietsport bottom right;;;https://lakarra.net/wp-content/uploads/2019/12/benfica-3-musette-2008.jpg;
-Belgium;2008;Nation;;;x;;;https://lakarra.net/wp-content/uploads/2019/12/bioracer-musette-2008.jpg;
+Belgium;2008, 2009;Nation;;;x;;;https://lakarra.net/wp-content/uploads/2019/12/bioracer-musette-2008.jpg;
 Cactus;2008;;;;x;;;https://lakarra.net/wp-content/uploads/2019/12/cactus-musette-2008.jpg;
 Colbat;2008;;;;;;;https://lakarra.net/wp-content/uploads/2019/12/colbat-musette-2008.jpg;
 EEC ;2008;;;;x;;;https://lakarra.net/wp-content/uploads/2019/12/eec-musette-2008.jpg;
@@ -809,71 +809,70 @@ Team Volksbank;2008;;;;x;;;https://lakarra.net/wp-content/uploads/2019/12/volksb
 Palmans Cras;2008;;;;x;;;https://lakarra.net/wp-content/uploads/2020/12/musette-2008-palmans-cras.jpeg;
 Topsport Vlaanderen;2008;UCI Europa Tour Continental Profesional;;;x;;;https://lakarra.net/wp-content/uploads/2020/12/musette-2008-topsport-vlaanderen.jpeg;
 JONATHAN PAGE;2008;;;;;;;https://lakarra.net/wp-content/uploads/2022/01/musette-2008-jonathan-page.jpeg;
-Tour of Hainan;2009;Race;;;x;;;hainan_09;
+Tour of Hainan;2009;Race;;;x;x;;hainan_09;
 Andalucía-CajaSur;2009;UCI Europa Tour Continental Profesional;;;white strap;;;http://www.avesdeburgos.com/ciclismo/images/Andalucia07(2).jpg;
-Team Wallonie;2009;Elite-Sub23;;;x;;;http://www.avesdeburgos.com/ciclismo/images/rlvb-Bioracer.jpg;
 Landbouwkrediet-Colnago;2009;UCI Europa Tour Continental Profesional;;;x;;;http://www.avesdeburgos.com/ciclismo/images/VermarcAzul.jpg;
 Jong Vlaanderen-Bauknecht;2009;UCI Europa Tour Continental;;;x;;;http://www.avesdeburgos.com/ciclismo/images/VermarcAzul07.jpg;
 Team Piemonte;2009;UCI Europa Tour Continental;;;x;;;http://www.avesdeburgos.com/ciclismo/images/VermarcAzul07.jpg;
-Ag2r La Mondiale;2009;UCI ProTour;;;x;;;http://www.zonadeavituallamiento.es/images/Ag2r09(2).jpg;
-Ag2r La Mondiale;2009;UCI ProTour;;;Biemme logo - bottom right;;;http://www.zonadeavituallamiento.es/images/Ag2r09.jpg;
-Agritubel;2009;UCI Europa Tour Continental Profesional;;;Agritubel in dark blue;;;http://www.zonadeavituallamiento.es/images/Agritubel09.jpg;
+Ag2r La Mondiale;2009;UCI ProTour;;;x;x;;http://www.zonadeavituallamiento.es/images/Ag2r09(2).jpg;
+Ag2r La Mondiale;2009;UCI ProTour;;;Biemme logo - bottom right;x;;http://www.zonadeavituallamiento.es/images/Ag2r09.jpg;
+Agritubel;2009;UCI Europa Tour Continental Profesional;;;Agritubel in dark blue;x;;http://www.zonadeavituallamiento.es/images/Agritubel09.jpg;
 Amica Chips-Knauf;2009;UCI Europa Tour Continental Profesional;;;x;;;http://www.zonadeavituallamiento.es/images/AmicaChips09(a).jpg;http://www.zonadeavituallamiento.es/images/AmicaChips09(b).jpg
 Amore & Vita-McDonald's;2009;UCI America Tour Continental;;;Smaller biemme bottom middle;;;http://www.zonadeavituallamiento.es/images/Amore&Vita09.jpg;
 Andalucía-CajaSur;2009;UCI Europa Tour Continental Profesional;;;x;;;http://www.zonadeavituallamiento.es/images/Andalucia08.jpg;
-Andorra-GrandValira;2009;UCI Europa Tour Continental ;;;x;;;http://www.zonadeavituallamiento.es/images/Andorra09.jpg;
+Andorra-GrandValira;2009;UCI Europa Tour Continental ;;;x;x;;http://www.zonadeavituallamiento.es/images/Andorra09.jpg;
 BMC Racing Team;2009;UCI  America Tour Continental Profesional;;;x;;;http://www.zonadeavituallamiento.es/images/Assos08(a).jpg;http://www.zonadeavituallamiento.es/images/Assos08(b).jpg
 Mroz Continental Team;2009;UCI Europa Tousr Continental;;;;;;http://www.zonadeavituallamiento.es/images/BankBGZ.jpg;
-Barloworld;2009;UCI Europa Tour Continental Profesional;;;x;;;http://www.zonadeavituallamiento.es/images/Barloworld09.jpg;
+Barloworld;2009;UCI Europa Tour Continental Profesional;;;x;x;;http://www.zonadeavituallamiento.es/images/Barloworld09.jpg;
 Fuji-Servetto;2009;UCI Pro Tour;;;x;;;http://www.zonadeavituallamiento.es/images/Bergamo09(2).jpg;
-Fuji-Servetto;2009;UCI Pro Tour;;;x;;;http://www.zonadeavituallamiento.es/images/Bergamo09.jpg;
-Besson Chaussures-Sojasun;2009;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Besson-Sojasun09(a).jpg;http://www.zonadeavituallamiento.es/images/Besson-Sojasun09(b).jpg
+Fuji-Servetto;2009;UCI Pro Tour;;;x;x;;http://www.zonadeavituallamiento.es/images/Bergamo09.jpg;
+Besson Chaussures-Sojasun;2009;UCI Europa Tour Continental;;;x;x;;http://www.zonadeavituallamiento.es/images/Besson-Sojasun09(a).jpg;http://www.zonadeavituallamiento.es/images/Besson-Sojasun09(b).jpg
 Contentpolis-Ampo;2009;UCI Europa Tour Continental Profesional;;;x;;;http://www.zonadeavituallamiento.es/images/Born-WCup09.jpg;
-BBox Bouygues Telecom;2009;UCI ProTour;;;Bbox top right and Nalini bottom left;;;http://www.zonadeavituallamiento.es/images/Bouygues-Telecom09.jpg;
+BBox Bouygues Telecom;2009;UCI ProTour;;;Bbox top right and Nalini bottom left;x;;http://www.zonadeavituallamiento.es/images/Bouygues-Telecom09.jpg;
 Boyacá es para Vivirla;2009;UCI  America Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Boyaca09(2).jpg;
 Boyacá es para Vivirla;2009;UCI  America Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Boyaca09.jpg;
-Bretagne-Schuller;2009;UCI  Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Bretagne09(a).jpg;http://www.zonadeavituallamiento.es/images/Bretagne09(b).jpg
+Bretagne-Schuller;2009;UCI  Europa Tour Continental;;;x;x;;http://www.zonadeavituallamiento.es/images/Bretagne09(a).jpg;http://www.zonadeavituallamiento.es/images/Bretagne09(b).jpg
 Team Bridgestone Anchor;2009;UCI Asia Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Bridgestone-Anchor09.jpg;
 Burgos Monumental-Castilla y León;2009;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Burgos08.jpg;
 Burgos Monumental-Castilla y León;2009;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Burgos09(2).jpg;
 Burgos Monumental-Castilla y León;2009;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Burgos09(3).jpg;
 Burgos Monumental-Castilla y León;2009;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Burgos09.jpg;
-Café de Colombia-Colombia es Pasión;2009;UCI America Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Cafe-Colombia09.jpg;
+Café de Colombia-Colombia es Pasión;2009;UCI America Tour Continental;;;x;x;;http://www.zonadeavituallamiento.es/images/Cafe-Colombia09.jpg;
 CandiTV-Pinarello RT;2009;UCI Europa Tour Continental ;;;x;;;http://www.zonadeavituallamiento.es/images/CandiTV08.jpg;
-Centri della Calzatura;2009;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Centri09(a).jpg;http://www.zonadeavituallamiento.es/images/Centri09(b).jpg
-Cervélo Test Team;2009;UCI Europa Tour Continental Profesional;;;x;;;http://www.zonadeavituallamiento.es/images/Cervelo09.jpg;
+Centri della Calzatura;2009;UCI Europa Tour Continental;;;x;x;;http://www.zonadeavituallamiento.es/images/Centri09(a).jpg;http://www.zonadeavituallamiento.es/images/Centri09(b).jpg
+Cervélo Test Team;2009;UCI Europa Tour Continental Profesional;;;x;x;;http://www.zonadeavituallamiento.es/images/Cervelo09.jpg;
 Colombia es Pasión Coldeportes;2009;UCI America Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Colombia-Pasion09.jpg;
-Team Columbia-High Road;2009;UCI ProTour;;;x;;;http://www.zonadeavituallamiento.es/images/Columbia09.jpg;
-Contentpolis-Ampo;2009;UCI Europa Tour Continental Profesional;;;x;;;http://www.zonadeavituallamiento.es/images/Contentpolis09(a).jpg;http://www.zonadeavituallamiento.es/images/Contentpolis09(b).jpg
+Team Columbia-High Road;2009;UCI ProTour;;;x;x;;http://www.zonadeavituallamiento.es/images/Columbia09.jpg;
+Contentpolis-Ampo;2009;UCI Europa Tour Continental Profesional;;;x;x;;http://www.zonadeavituallamiento.es/images/Contentpolis09(a).jpg;http://www.zonadeavituallamiento.es/images/Contentpolis09(b).jpg
 Team Corratec;2009;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Corratec09(a).jpg;http://www.zonadeavituallamiento.es/images/Corratec09(b).jpg
-Elk Haus;2009;UCI Europa Tour Continental Profesional;;;x;;;http://www.zonadeavituallamiento.es/images/Elk09.jpg;
+Elk Haus;2009;UCI Europa Tour Continental Profesional;;;x;x;;http://www.zonadeavituallamiento.es/images/Elk09.jpg;
 RC Arbö Wels Gourmetfein;2009;UCI Europa Tour Continental;;;;;;http://www.zonadeavituallamiento.es/images/Euro-Vital.jpg;
-Euskaltel-Euskadi;2009;UCI ProTour;;;7 small logos, first one is a circle;;;http://www.zonadeavituallamiento.es/images/Euskaltel09.jpg;
+Euskaltel-Euskadi;2009;UCI ProTour;;;7 small logos, first one is a circle. Orbea dark blue;;;http://www.zonadeavituallamiento.es/images/Euskaltel09.jpg;
 FC Rheinland-Pfalz/Saar-Mainz;2009;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/FC-RLP(a).jpg;http://www.zonadeavituallamiento.es/images/FC-RLP(b).jpg
 ISD-Neri;2009;UCI Europa Tour Continental Profesional;;;x;;;http://www.zonadeavituallamiento.es/images/ISD09(2).jpg;
 ISD-Neri;2009;UCI Europa Tour Continental Profesional;;;Smaller ISD logos;;;http://www.zonadeavituallamiento.es/images/ISD09.jpg;
-Team Katusha;2009;UCI Pro Tour;;;x;;;http://www.zonadeavituallamiento.es/images/Katusha09.jpg;
-Katyusha Continental Team;2009;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Katyusha08(2).jpg;
+Team Katusha;2009;UCI Pro Tour;;;x;x;;http://www.zonadeavituallamiento.es/images/Katusha09.jpg;
+Katyusha Continental Team;2009;UCI Europa Tour Continental;;;x;x;;http://www.zonadeavituallamiento.es/images/Katyusha08(2).jpg;
 Kelly Benefit Strategies;2009;UCI America Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Kelly09.jpg;
-Lampre-NGC;2009;UCI ProTour;;;Ncc middle;;;http://www.zonadeavituallamiento.es/images/Lampre09.jpg;
+Lampre-NGC;2009;UCI ProTour;;;Ncc middle;x;;http://www.zonadeavituallamiento.es/images/Lampre09.jpg;
 Liberty Seguros;2009;UCI Europa Tour Continental;;;TI Sport bottom right;;;http://www.zonadeavituallamiento.es/images/Liberty09.jpg;
-Liquigas;2009;UCI ProTour;;;x;;;http://www.zonadeavituallamiento.es/images/Liquigas09(a).jpg;http://www.zonadeavituallamiento.es/images/Liquigas09(b).jpg
-LPR Brakes Farnese Vini;2009;UCI Europa Tour Continental Profesional;;;x;;;http://www.zonadeavituallamiento.es/images/LPR09.jpg;
+Liquigas;2009;UCI ProTour;;;x;x;;http://www.zonadeavituallamiento.es/images/Liquigas09(a).jpg;http://www.zonadeavituallamiento.es/images/Liquigas09(b).jpg
+LPR Brakes Farnese Vini;2009;UCI Europa Tour Continental Profesional;;;x;x;;http://www.zonadeavituallamiento.es/images/LPR09.jpg;
 Veranda's Willems;2009;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Maximize.jpg;
 EQA-Meitan Hompo-Graphite Design;2009;UCI Asia Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Meitan09.jpg;
 Beveren 2000;2009;Elite-Sub23;;;x;;;http://www.zonadeavituallamiento.es/images/Nico-Sport09(2).jpg;
-Palmeiras Resort/Prio;2009;UCI Europa Tour Continental;;;Tavira top left;;;http://www.zonadeavituallamiento.es/images/Palmeiras09.jpg;
-Quick Step;2009;UCI ProTour;;;x;;;http://www.zonadeavituallamiento.es/images/Quick-Step09.jpg;
-Rabobank;2009;UCI ProTour ;;;No colnago top right;;;http://www.zonadeavituallamiento.es/images/Rabobank09.jpg;
-Sparebanken Vest-Ridley;2009;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Ridley09.jpg;
+Palmeiras Resort/Prio;2009;UCI Europa Tour Continental;;;Tavira top left;x;;http://www.zonadeavituallamiento.es/images/Palmeiras09.jpg;
+Quick Step;2009;UCI ProTour;;;x;x;;http://www.zonadeavituallamiento.es/images/Quick-Step09.jpg;
+Rabobank;2009;UCI ProTour ;;;No colnago top right;x;;http://www.zonadeavituallamiento.es/images/Rabobank09.jpg;
+Sparebanken Vest-Ridley;2009;UCI Europa Tour Continental;;;x;x;;http://www.zonadeavituallamiento.es/images/Ridley09.jpg;
 Rock Racing;2009;UCI America Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/RockRacing09(a).jpg;http://www.zonadeavituallamiento.es/images/RockRacing09(b).jpg
-Team Saxo Bank;2009;UCI ProTour;;;Play itas left;;;http://www.zonadeavituallamiento.es/images/SaxoBank09(2).jpg;
-Team Saxo Bank;2009;UCI ProTour;;;x;;;http://www.zonadeavituallamiento.es/images/SaxoBank09.jpg;
-Silence-Lotto;2009;UCI ProTour;;;x;;;http://www.zonadeavituallamiento.es/images/Silence-Lotto09.jpg;
+Team Saxo Bank;2009;UCI ProTour;;;Play itas left;x;;http://www.zonadeavituallamiento.es/images/SaxoBank09(2).jpg;
+Team Saxo Bank;2009;UCI ProTour;;;x;x;;http://www.zonadeavituallamiento.es/images/SaxoBank09.jpg;
+Silence-Lotto;2009;UCI ProTour;;;x;x;;http://www.zonadeavituallamiento.es/images/Silence-Lotto09.jpg;
 Topsport Vlaanderen-Mercator;2009;UCI Europa Tour Continental Profesional;;;x;;;http://www.zonadeavituallamiento.es/images/Topsport09.jpg;
-Landbouwkrediet-Colnago;2009;UCI Europa Tour Continental Profesional;;;x;;;http://www.zonadeavituallamiento.es/images/Vermarc0910.jpg;
-Jong Vlaanderen-Bauknecht;2009;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/W-Cup09(2).jpg;
-PSK Whirlpool-Author;2009;UCI Europa Tour Continental;;;Kalas bottom;;;http://www.zonadeavituallamiento.es/images/Whirlpool-Author(a).jpg;http://www.zonadeavituallamiento.es/images/Whirlpool-Author(b).jpg
+Landbouwkrediet-Colnago;2009;UCI Europa Tour Continental Profesional;;;x;x;;http://www.zonadeavituallamiento.es/images/Vermarc0910.jpg;
+Jong Vlaanderen-Bauknecht;2009;UCI Europa Tour Continental;;;x;x;;http://www.zonadeavituallamiento.es/images/W-Cup09(2).jpg;
+PSK Whirlpool-Author;2009;UCI Europa Tour Continental;;;Kalas bottom;x;;http://www.zonadeavituallamiento.es/images/Whirlpool-Author(a).jpg;http://www.zonadeavituallamiento.es/images/Whirlpool-Author(b).jpg
 Xacobeo Galicia;2009;UCI Europa Tour Continental Profesional;;;x;x;;http://www.zonadeavituallamiento.es/images/Xacobeo09.jpg;
 Camiroo;2009;;;;;;;https://lakarra.net/wp-content/uploads/2019/12/musette-2009-camiroo.jpg;
 Espana;2009;Nation;;;x;;;https://lakarra.net/wp-content/uploads/2019/12/musette-2009-espana.jpg;
@@ -907,13 +906,13 @@ CDC-Cavaliere;2010;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallam
 Cervélo Test Team;2010;UCI Europa Tour Continental Profesional;;;x;;;http://www.zonadeavituallamiento.es/images/Cervelo10(2).jpg;
 Cervélo Test Team;2010;UCI Europa Tour Continental Profesional;;;Scorpio bottom middle;;;http://www.zonadeavituallamiento.es/images/Cervelo10(3).jpg;
 Cervélo Test Team;2010;UCI Europa Tour Continental Profesional;;;Vittoria bottom middle;x;;http://www.zonadeavituallamiento.es/images/Cervelo10.jpg;
-CKT Tmit-Champion System;2010;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Champion-System09.jpg;
+CKT Tmit-Champion System;2010;UCI Europa Tour Continental;;;x;x;;http://www.zonadeavituallamiento.es/images/Champion-System09.jpg;
 Colnago-CSF Inox;2010;UCI Europa Tour Continental Profesional;;;x;x;;http://www.zonadeavituallamiento.es/images/Colnago-CSF10.jpg;
 Team CykelCity.se;2010;Elite-Sub23;;;x;;;http://www.zonadeavituallamiento.es/images/Cykelcity.jpg;
 Team CykelCity.se;2010;Elite-Sub23;;;Sponsort on strap;x;;http://www.zonadeavituallamiento.es/images/Cykelcity10.jpg;
 De Rosa-Stac Plastic;2010;UCI Europa Tour Continental Profesional;;;x;x;;http://www.zonadeavituallamiento.es/images/De-Rosa10.jpg;
 Continental Team Differdange ;2010;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Edy-Schutz10.jpg;
-Euskaltel-Euskadi;2010;UCI ProTour;;;Lighter as previous year;x;;http://www.zonadeavituallamiento.es/images/Euskaltel10.jpg;
+Euskaltel-Euskadi;2010;UCI ProTour;;;Lighter as previous year, orbea light blue;x;;http://www.zonadeavituallamiento.es/images/Euskaltel10.jpg;
 An Post-Sean Kelly;2010;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Fashion-Cycling.jpg;
 Française Des Jeux;2010;UCI ProTour;;;Lapierre - top left;x;;http://www.zonadeavituallamiento.es/images/FDJeux10.jpg;
 Cerámica Flaminia;2010;UCI Europa Tour Continental Profesional;;;x;x;;http://www.zonadeavituallamiento.es/images/Flaminia10.jpg;
@@ -950,7 +949,7 @@ Sky Professional Cycling Team;2010;UCI ProTour;;;x;;;http://www.zonadeavituallam
 Sky Professional Cycling Team;2010;UCI ProTour;;;No blue label on the side;x;;http://www.zonadeavituallamiento.es/images/Sky10(a).jpg;http://www.zonadeavituallamiento.es/images/Sky10(b).jpg
 Vacansoleil Pro Cycling Team;2010;UCI Europa Tour Continental Profesional;;;No DCM ;x;;http://www.zonadeavituallamiento.es/images/Vacansoleil10(a).jpg;http://www.zonadeavituallamiento.es/images/Vacansoleil10(b).jpg
 Team Valdarno;2010;UCI Equipo femenino;;;x;;;http://www.zonadeavituallamiento.es/images/Valdarno10.jpg;
-Landbouwkrediet;2010;UCI Europa Tour Continental Profesional;;;x;;;http://www.zonadeavituallamiento.es/images/Vermarc0910.jpg;
+Landbouwkrediet;2010;UCI Europa Tour Continental Profesional;;;x;x;;http://www.zonadeavituallamiento.es/images/Vermarc0910.jpg;
 PSK Whirlpool-Author;2010;UCI Europa Tour Continental;;;No sponsor bottom;;;http://www.zonadeavituallamiento.es/images/Whirlpool-Author10(a).jpg;http://www.zonadeavituallamiento.es/images/Whirlpool-Author10(b).jpg
 Xacobeo Galicia;2010;UCI Europa Tour Continental Profesional;;;x;x;;http://www.zonadeavituallamiento.es/images/Xacobeo10.jpg;
 Austria;2010;Nation;;;x;;;https://lakarra.net/wp-content/uploads/2019/12/musette-2010-austria.jpg;
@@ -969,7 +968,7 @@ Acqua & Sapone;2011;UCI Europa Tour Continental Profesional;;;Bottechia bottom;x
 Adria Mobil;2011;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Adria11.jpg;
 Andalucía Caja Granada;2011;UCI Europa Tour Continental Profesional;;;x;x;;http://www.zonadeavituallamiento.es/images/Andalucia11(a).jpg;http://www.zonadeavituallamiento.es/images/Andalucia11(b).jpg
 Pro Team Astana;2011;UCI WorldTour;;;x;;;http://www.zonadeavituallamiento.es/images/Astana11.jpg;
-Caja Rural;2011;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/BioRacer11.jpg;
+Caja Rural;2011;UCI Europa Tour Continental;;;x;x;;http://www.zonadeavituallamiento.es/images/BioRacer11.jpg;
 BMC Racing Team;2011;UCI WorldTour;;;La coquillade top;x;;http://www.zonadeavituallamiento.es/images/BMC11(a).jpg;http://www.zonadeavituallamiento.es/images/BMC11(b).jpg
 Team Bonitas;2011;UCI Africa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Bonitas11.jpg;
 Bretagne-Schuller;2011;UCI  Europa Tour Continental Profesional;;;x;x;;http://www.zonadeavituallamiento.es/images/Bretagne11(a).jpg;http://www.zonadeavituallamiento.es/images/Bretagne11(b).jpg
@@ -994,7 +993,7 @@ Katusha Team;2011;UCI WorldTour;;;x;x;;http://www.zonadeavituallamiento.es/image
 Lampre-ISD;2011;UCI WorldTour;;;x;x;;http://www.zonadeavituallamiento.es/images/Lampre11.jpg;
 Velo-Club La Pomme Marseille;2011;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/La-Pomme11.jpg;
 Leopard Trek;2011;UCI WorldTour;;;x;x;;http://www.zonadeavituallamiento.es/images/Leopard11(a).jpg;http://www.zonadeavituallamiento.es/images/Leopard11(b).jpg
-Metec Cycling Team;2011;Elite-Sub23;;;x;;;http://www.zonadeavituallamiento.es/images/Metec11(a).jpg;http://www.zonadeavituallamiento.es/images/Metec11(b).jpg
+Metec Cycling Team;2011;Elite-Sub23;;;x;x;;http://www.zonadeavituallamiento.es/images/Metec11(a).jpg;http://www.zonadeavituallamiento.es/images/Metec11(b).jpg
 Miche-Guerciotti;2011;UCI Europa Tour Continental;;;x;x;;http://www.zonadeavituallamiento.es/images/Miche11.jpg;
 Movistar Team;2011;UCI WorldTour;;;x;;;http://www.zonadeavituallamiento.es/images/Movistar11(2).jpg;
 Movistar Team;2011;UCI WorldTour;;;White line on top;x;;http://www.zonadeavituallamiento.es/images/Movistar11.jpg;
@@ -1011,9 +1010,9 @@ Tavira-Prio;2011;UCI Europa Tour Continental;;;prio top;;;http://www.zonadeavitu
 Team Type 1-Sanofi;2011;UCI America Tour Continental;;;Press button;;;http://www.zonadeavituallamiento.es/images/TT1-2011.jpg;
 Ubbink-Koga Cycling Team;2011;Elite-Sub23;;;x;x;;http://www.zonadeavituallamiento.es/images/Ubbink11.jpg;
 UnitedHealthcare Pro Cycling;2011;UCI America Tour Continental Profesional;;;x;x;;http://www.zonadeavituallamiento.es/images/UnitedHealthcare11.jpg;
-Landbouwkrediet;2011;UCI Europa Tour Continental Profesional;;;x;;;http://www.zonadeavituallamiento.es/images/Vermarc0910.jpg;
+Landbouwkrediet;2011;UCI Europa Tour Continental Profesional;;;x;x;;http://www.zonadeavituallamiento.es/images/Vermarc0910.jpg;
 Wallonie Bruxelles-Crédit Agricole;2011;UCI Europa Tour Continental;;;x;x;;http://www.zonadeavituallamiento.es/images/Wallonie-Bruxelles11.jpg;
-Roubaix Lille Métropole;2011;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/W-Cup-Born10.jpg;
+Roubaix Lille Métropole;2011;UCI Europa Tour Continental;;;x;x;;http://www.zonadeavituallamiento.es/images/W-Cup-Born10.jpg;
 PSK Whirlpool-Author;2011;UCI Europa Tour Continental;;;Lawi bottom;;;http://www.zonadeavituallamiento.es/images/Whirlpool-Author11(a).jpg;http://www.zonadeavituallamiento.es/images/Whirlpool-Author11(b).jpg
 Veranda's Willems-Accent;2011;UCI Europa Tour Continental Profesional;;;x;x;;http://www.zonadeavituallamiento.es/images/Willems11(a).jpg;http://www.zonadeavituallamiento.es/images/Willems11(b).jpg
 Zappi's Cycling Club;2011;Club;;;x;;;http://www.zonadeavituallamiento.es/images/Zappis.jpg;
@@ -1120,7 +1119,6 @@ Synergy Baku Cycling Project;2013;UCI Europa Tour Continental;;;x;;;http://www.z
 Banco Bic-Carmin;2013;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Banco-Bic13.jpg;
 Belkin-Pro Cycling Team;2013;UCI WorldTour;;;x;x;;http://www.zonadeavituallamiento.es/images/Belkin13.jpg;
 Faren Lets Go Finland;2013;UCI Equipo femenino;;;x;;;http://www.zonadeavituallamiento.es/images/Beretta13.jpg;
-Blanco-Pro Cycling Team (hasta junio);2013;UCI  WorldTour;;;x;;;http://www.zonadeavituallamiento.es/images/BioRacer13.jpg;
 BMC Racing Team;2013;UCI WorldTour;;;Coton;x;;http://www.zonadeavituallamiento.es/images/BMC13.jpg;
 Bretagne-Séché Environnement;2013;UCI  Europa Tour Continental Profesional;;;x;x;;http://www.zonadeavituallamiento.es/images/Bretagne13(a).jpg;http://www.zonadeavituallamiento.es/images/Bretagne13(b).jpg
 Burgos BH-Castilla y León;2013;UCI Europa Tour Continental;;;x;x;;http://www.zonadeavituallamiento.es/images/Burgos13.jpg;
@@ -2270,7 +2268,7 @@ Bretagne Armor Lux;2007, 2008;UCI  Europa Tour Continental;;;x;;;http://www.zona
 Tenax;2007, 2008;UCI Europa Tour Continental Profesional;;;x;;;http://www.zonadeavituallamiento.es/images/Tenax07.jpg;
 Acqua & Sapone-Caffè Mokambo;2007, 2008, 2009;UCI Europa Tour Continental Profesional;;;x;;;http://www.avesdeburgos.com/ciclismo/images/Acqua&Sapone07.jpg;
 Karpin Galicia;2007, 2008, 2009, 2010;UCI Europa Tour Continental Profesional;;;x;;;http://www.avesdeburgos.com/ciclismo/images/Karpin-Galicia07.jpg;
-Astana;2008, 2009;UCI ProTour;;;x;;;http://www.zonadeavituallamiento.es/images/Astana08.jpg;
+Astana;2008, 2009;UCI ProTour;;;x;x;;http://www.zonadeavituallamiento.es/images/Astana08.jpg;
 A-Style Somn;2008, 2009;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/A-Style.jpg;
 CCC Polsat Polkowice;2008, 2009;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/CCC09.jpg;
 CSF Group Navigare;2008, 2009;Europa Tour Continental Profesional;;;x;;;http://www.zonadeavituallamiento.es/images/CSF08.jpg;
@@ -2288,16 +2286,16 @@ Andalucía-CajaSur;2009, 2010;UCI Europa Tour Continental Profesional;;;white st
 Auber 93;2009, 2010;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Auber93-0910(a).jpg;http://www.zonadeavituallamiento.es/images/Auber93-0910(b).jpg
 Caisse d'Epargne;2009, 2010;UCI ProTour;;;Roundes squares;x;;http://www.zonadeavituallamiento.es/images/Caisse09.jpg;
 Drapac Porsche Cycling;2009, 2010;UCI Oceania Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Drapac10.jpg;
-Garmin-Slipstream;2009, 2010;UCI Pro Tour;;;x;;;http://www.zonadeavituallamiento.es/images/Garmin09.jpg;
+Garmin-Slipstream;2009, 2010;UCI Pro Tour;;;x;x;;http://www.zonadeavituallamiento.es/images/Garmin09.jpg;
 Metec Cycling Team;2009, 2010;Elite-Sub23;;;x;;;http://www.zonadeavituallamiento.es/images/Metec.jpg;
-Team Milram;2009, 2010;UCI ProTour;;;x;;;http://www.zonadeavituallamiento.es/images/Milram09.jpg;
+Team Milram;2009, 2010;UCI ProTour;;;x;x;;http://www.zonadeavituallamiento.es/images/Milram09.jpg;
 Beveren 2000;2009, 2010;Elite-Sub23;;;x;;;http://www.zonadeavituallamiento.es/images/Nico-Sport09(1).jpg;
 Roubaix Lille Métropole;2009, 2010;UCI Europa Tour Continental;;;x;x;;http://www.zonadeavituallamiento.es/images/Roubaix09.jpg;
-Seven Stones;2009, 2010, 2011;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Born09.jpg;
-Team Nutrixxion Sparkasse;2009, 2010, 2011;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Nutrixxion09.jpg;
+Seven Stones;2009, 2010, 2011;UCI Europa Tour Continental;;;x;x;;http://www.zonadeavituallamiento.es/images/Born09.jpg;
+Team Nutrixxion Sparkasse;2009, 2010, 2011;UCI Europa Tour Continental;;;x;x;;http://www.zonadeavituallamiento.es/images/Nutrixxion09.jpg;
 Skil-Shimano;2009, 2010, 2011;UCI Europa Tour Continental Profesional;;;x;x;;http://www.zonadeavituallamiento.es/images/Skil09.jpg;
-Vorarlberg-Corratec;2009, 2010, 2011;UCI Europa Tour Continental;;;x;;;http://www.zonadeavituallamiento.es/images/Vorarlberg0910.jpg;
-Cofidis, le Crédit en ligne;2009, 2010, 2011;UCI ProTour;;;x;;;http://www.zonadeavituallamiento.es/images/Cofidis09.jpg;
+Vorarlberg-Corratec;2009, 2010, 2011;UCI Europa Tour Continental;;;x;x;;http://www.zonadeavituallamiento.es/images/Vorarlberg0910.jpg;
+Cofidis, le Crédit en ligne;2009, 2010, 2011;UCI ProTour;;;x;x;;http://www.zonadeavituallamiento.es/images/Cofidis09.jpg;
 Ag2r La Mondiale;2010, 2011;UCI ProTour;;;x;x;;http://www.zonadeavituallamiento.es/images/Ag2r10.jpg;
 Omega Pharma-Lotto;2010, 2011;UCI ProTour;;;x;x;;http://www.zonadeavituallamiento.es/images/Lotto10.jpg;
 Team NetApp;2010, 2011;UCI Europa Tour Continental;;;x;x;;http://www.zonadeavituallamiento.es/images/NetApp10.jpg;
