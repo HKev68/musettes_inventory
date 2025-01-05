@@ -265,7 +265,7 @@ Navigare - Blue Storn;1995;;;;Selle Italia bottom;;;https://lakarra.net/wp-conte
 Aubervilliers 93-Peugeot;1996;TT II;;;x;;;http://www.avesdeburgos.com/ciclismo/images/Auber96.jpg;
 Bikuben;1996;Esponsor Individual;;;x;;;http://www.avesdeburgos.com/ciclismo/images/Bikuben96.jpg;
 Brescialat-Verynet;1996;TT I;;;x;x;;http://www.avesdeburgos.com/ciclismo/images/Brescialat-Verynet97.jpg;
-Cantina Tollo-Co.Bo.;1996;TT II;;;x;;;http://www.avesdeburgos.com/ciclismo/images/CantinaTollo-Cobo.jpg;
+Cantina Tollo-Co.Bo.;1996;TT II;;;x;Patrick;;http://www.avesdeburgos.com/ciclismo/images/CantinaTollo-Cobo.jpg;
 Festina-Lotus;1996;TT I;;;x;x;;http://www.avesdeburgos.com/ciclismo/images/Lotus-Festina1(b).jpg;http://www.avesdeburgos.com/ciclismo/images/Lotus-Festina1(a).jpg
 Refin-Mobilvetta;1996;TT I;;;x;x;;http://www.avesdeburgos.com/ciclismo/images/Refin-Mobilvetta96.jpg;
 Saeco-A.S. Juvenes San Marino;1996;TT I;;;x;x;;http://www.avesdeburgos.com/ciclismo/images/Saeco98.jpg;
@@ -514,7 +514,7 @@ Chocolat Jacques;2004;TT I;;;x;x;;http://www.avesdeburgos.com/ciclismo/images/Ja
 Comunitat Valenciana-Kelme;2004;TT II;;;x;x;;http://www.avesdeburgos.com/ciclismo/images/Kelme-Costablanca04(a).jpg;http://www.avesdeburgos.com/ciclismo/images/Kelme-Costablanca04(b).jpg
 L.A. Alumínios-Pecol;2004;TT II;;;x;;;http://www.avesdeburgos.com/ciclismo/images/La-Pecol04(a).jpg;http://www.avesdeburgos.com/ciclismo/images/La-Pecol04(b).jpg
 Liberty Seguros;2004;TT I;;;Würth top;x;;http://www.avesdeburgos.com/ciclismo/images/Liberty04.jpg;
-Team LPR-Piacenza Management srl;2004;TT II;;;x;;;http://www.avesdeburgos.com/ciclismo/images/Lpr04.jpg;
+Team LPR-Piacenza Management srl;2004;TT II;;;x;Patrick;;http://www.avesdeburgos.com/ciclismo/images/Lpr04.jpg;
 Ceramiche Panaria-Margres;2004;TT II;;;x;x;;http://www.avesdeburgos.com/ciclismo/images/Panaria-Margres04.jpg;
 Costa de Almería-Paternina;2004;TT II;Same as previous year;;x;;;http://www.avesdeburgos.com/ciclismo/images/Paternina-CostaAlmeria04.jpg;
 Phonak Hearing Systems;2004;TT I;;;Hearing systems bottom;;;http://www.avesdeburgos.com/ciclismo/images/Phonak04.jpg;
@@ -1848,7 +1848,7 @@ FDJ Suez Futuroscope;2022;UCI Women's WorldTeam;;;x;x;;http://www.zonadeavituall
 Glassdrive/Q8/Anicolor;2022;UCI Europa Tour Continental;;;White lanes top and bottom;;;http://www.zonadeavituallamiento.es/images/Glassdrive22.jpg;
 Human Powered Health;2022;UCI ProTeam;;;x;x;;http://www.zonadeavituallamiento.es/images/Human22.jpg;
 Israel-Premier Tech;2022;UCI WorldTeam;;;x;x;;http://www.zonadeavituallamiento.es/images/Israel22.jpg;
-Team Jumbo-Visma;2022;UCI WorldTeam;;;Food coach top left;;;http://www.zonadeavituallamiento.es/images/Jumbo22.jpg;
+Team Jumbo-Visma;2022;UCI WorldTeam;;;Food coach top left;Patrick;;http://www.zonadeavituallamiento.es/images/Jumbo22.jpg;
 Manuela Fundación;2022;UCI Europa Tour Continental;;;x;x;;http://www.zonadeavituallamiento.es/images/Manuela22(a).jpg;http://www.zonadeavituallamiento.es/images/Manuela22(b).jpg
 Movistar Team;2022;UCI WorldTeam;;;x;x;;http://www.zonadeavituallamiento.es/images/Movistar22.jpg;
 Quick-Step Alpha Vinyl Team;2022;UCI WorldTeam;;;x;x;;http://www.zonadeavituallamiento.es/images/Quick-Step22.jpg;
@@ -1898,7 +1898,6 @@ YOWAMUSHI PEDAL;2022;;;;;;;https://lakarra.net/wp-content/uploads/2023/01/musett
 Team Jumbo-Visma Devo;2022;;;;Valkenburg bottom right;x;;https://lakarra.net/wp-content/uploads/2023/02/musette-2022-jumbo-valkenburg-parkhotel.jpeg;
 Swiss;2022;Nation;Same as previous year;;x;;;https://www.facebook.com/photo/?fbid=3104581916497081&set=a.3077362349219038;
 Norway;2022;Nation;Same as previous year;;x;;;https://www.facebook.com/photo/?fbid=3140466592908613&set=a.3077362349219038;
-Ireland;2022;;Same as previous year;;x;;;https://www.facebook.com/photo/?fbid=3227086917579913&set=a.3077362349219038;
 Ineos-Grenadiers;2022;UCI WorldTeam;;;x;x;;http://www.zonadeavituallamiento.es/images/Ineos22.jpg;
 Le Col Wahoo;2022;;;;x;;;lecol_22;
 Ljubjana Gusto;2022;;;;x;;;ljubjana_22;
@@ -2091,8 +2090,8 @@ Tudor Pro Cycling Team;2024;UCI ProTeam;;;Synthetic;x;;tudor_24;
 Tufo Pardus;2024;;;;x;x;;tufo_24;
 UAE Team Emirates;2024;UCI WorldTeam;;;x;x;;uae_24;
 UAE Team ADQ;2024;UCI Women's WorldTeam;;;ADQ ;x;;uae_adq_24;
-Team Ukyo;2024;UCI Asia Tour Continental;;;X;;;ukyo_24;
-Team Ukyo;2024;;;;;;;ukyo_24_2;
+Team Ukyo;2023;UCI Asia Tour Continental;;;X;;;ukyo_24;
+Team Ukyo;2024;;;;;;;https://lakarra.net/bolsas-de-avituallamiento/musette-2023-santic-ukyo-2;
 Urbano Vulsteke;2024;;;;;;;urbano_24;
 VF Bardiani;2024;UCI ProTeam;;;x;x;;vf_24;
 Victoria Sport;2024;;;;;;;victoria_24;
@@ -2637,3 +2636,10 @@ CCC-Mat;;;;;x;x;;ccc-mat;
 Lawi;;;;;x;x;;lawi;
 Sicasal;;;;;x;x;;sicasal;
 Glassdrive;;;;;x;x;;glassdrive;
+Canada;2023;;;;;;;https://lakarra.net/wp-content/uploads/2024/04/musette-2023-canada-2.jpeg;
+Petroli Firenze;2023;;;;;;;https://lakarra.net/wp-content/uploads/2024/04/musette-2023-petroli-firenze-hoppla-2.jpeg;
+Lifeplus-Wahoo;2023;;;;;;;https://lakarra.net/wp-content/uploads/2024/04/musette-2023-verge-lifeplus-wahoo-2.jpeg;
+Victoria Sports;2023;;;;;;;https://lakarra.net/wp-content/uploads/2024/04/musette-2023-victoria-sports-grab-2.jpeg;
+Australia;2024;Nation;;;;;;australia_24;
+Ceratizit WNT;2024;;;;;;;ceratizit_24;
+Pierre Baguette;2024;;;;;;;baguette_slovenia_24;
