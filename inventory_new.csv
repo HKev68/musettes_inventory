@@ -938,8 +938,8 @@ Sparebanken Vest-Ridley;2010;UCI Europa Tour Continental;;;Ridley black;x;;http:
 Saur-Sojasun;2010;UCI Europa Tour Continental Profesional;;;x;x;;http://www.zonadeavituallamiento.es/images/Saur10-a.jpg;http://www.zonadeavituallamiento.es/images/Saur10-b.jpg
 Team Saxo Bank;2010;UCI ProTour;;;x;x;;http://www.zonadeavituallamiento.es/images/SaxoBank10.jpg;
 Sky Professional Cycling Team;2010;UCI ProTour;;;x;-;;http://www.zonadeavituallamiento.es/images/Sky(2)10(a).jpg;
-Sky Professional Cycling Team;2010;UCI ProTour;;;x;-;;http://www.zonadeavituallamiento.es/images/Sky(3)10(a).jpg;http://www.zonadeavituallamiento.es/images/Sky(3)10(b).jpg
-Sky Professional Cycling Team;2010;UCI ProTour;;;No blue label on the side;x;;http://www.zonadeavituallamiento.es/images/Sky10(a).jpg;http://www.zonadeavituallamiento.es/images/Sky10(b).jpg
+Sky Professional Cycling Team;2010;UCI ProTour;;;x;x;;http://www.zonadeavituallamiento.es/images/Sky(3)10(a).jpg;http://www.zonadeavituallamiento.es/images/Sky(3)10(b).jpg
+Sky Professional Cycling Team;2010;UCI ProTour;;;No blue label on the side;-;;http://www.zonadeavituallamiento.es/images/Sky10(a).jpg;http://www.zonadeavituallamiento.es/images/Sky10(b).jpg
 Vacansoleil Pro Cycling Team;2010;UCI Europa Tour Continental Profesional;;;No DCM ;x;;http://www.zonadeavituallamiento.es/images/Vacansoleil10(a).jpg;http://www.zonadeavituallamiento.es/images/Vacansoleil10(b).jpg
 Team Valdarno;2010;UCI Equipo femenino;;;x;-;;http://www.zonadeavituallamiento.es/images/Valdarno10.jpg;
 Landbouwkrediet;2010;UCI Europa Tour Continental Profesional;;;x;x;;http://www.zonadeavituallamiento.es/images/Vermarc0910.jpg;
@@ -1653,7 +1653,7 @@ LA Aluminios;2019;;;;la.pt bottom right;x;;https://lakarra.net/wp-content/upload
 Leopard Pro Cycling;2019, 2020;UCI Europa Tour Continental;;;x;x;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-leopard.jpg;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-leopard-trasera.jpg
 Lokosphinx;2019;;;;;-;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-ls-lokosphinx.jpg;
 Miranda Mortagua;2019;;;;Single logo bottom;-;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-miranda-mortagua-2.jpg;
-UD Oliveirense;2019;;;;x;-;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-oliveirense-inoutbuild.jpg;
+UD Oliveirense;2019;;;;x;on the way;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-oliveirense-inoutbuild.jpg;
 UD Oliveirense;2019;;;;x;-;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-oliveirense-inoutbuild-volta.jpg;
 Portugal;2019;Nation;;;x;x;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-portugal.jpg;
 Tour of Qinghai Lake;2019;Race;;;x;x;;https://lakarra.net/wp-content/uploads/2020/04/musette-2019-qinghai-lake.jpg;
@@ -2083,7 +2083,7 @@ FDJ-Suez;2024;UCI Women's WorldTeam;;;;-;;suez_24;
 Sweden;2024;Nation;;;x;-;;sweden_24;
 Tour of Taihu Lake;2024;;;;x;x;;taihu_24;
 Tarteletto-Isorex;2024;;;;x;-;;tarteletto_24;
-Tavfer Mortagua;2024;;;;;-;;tavfer_24;
+Tavfer Mortagua;2024;;;;;on the way;;tavfer_24;
 Terengganu Polygon;2024;;;;x;x;;terengganu_24;
 TotalEnergies;2024;UCI ProTeam;;;Enve bottom left;x;;total_24;
 Tudor Pro Cycling Team;2024;UCI ProTeam;;;Synthetic;x;;tudor_24;
@@ -2643,3 +2643,4 @@ Victoria Sports;2023;;;;;-;;https://lakarra.net/wp-content/uploads/2024/04/muset
 Australia;2024;Nation;;;;-;;australia_24;
 Ceratizit WNT;2024;;;;;-;;ceratizit_24;
 Pierre Baguette;2024;;;;;-;;baguette_slovenia_24;
+ABTF Betao - Feirense;2024;;;;red/blue;on the way;;;
