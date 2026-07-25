@@ -3,56 +3,21 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Create GitHub Issue</title>
+    <title>Open GitHub issue form</title>
     <link rel="stylesheet" href="web.css" />
   </head>
   <body>
     <main class="issue-page">
-      <h1>Create a GitHub issue for a musette entry</h1>
+      <h1>Open the GitHub issue form</h1>
       <p class="intro">
-        Fill in the details below and the form will open a GitHub issue with all the inventory fields in the body.
+        This page opens the GitHub issue template defined in the repository so you can submit a musette entry through the YAML form.
       </p>
 
       <form id="issueForm" class="issue-form">
         <label for="repoUrl">GitHub repository URL</label>
         <input id="repoUrl" name="repoUrl" type="url" placeholder="https://github.com/owner/repo" required />
 
-        <label for="issueTitle">Issue title</label>
-        <input id="issueTitle" name="issueTitle" type="text" placeholder="Musette inventory entry" required />
-
-        <div class="grid">
-          <label for="team">Team</label>
-          <input id="team" name="team" type="text" />
-
-          <label for="year">Year</label>
-          <input id="year" name="year" type="text" />
-
-          <label for="category">Category</label>
-          <input id="category" name="category" type="text" />
-
-          <label for="pictureFront">Picture Front</label>
-          <input id="pictureFront" name="pictureFront" type="text" />
-
-          <label for="pictureBack">Picture Back</label>
-          <input id="pictureBack" name="pictureBack" type="text" />
-
-          <label for="difference">Difference to previous</label>
-          <input id="difference" name="difference" type="text" />
-
-          <label for="kevin">Kevin</label>
-          <input id="kevin" name="kevin" type="text" />
-
-          <label for="specialEdition">Special Edition ?</label>
-          <input id="specialEdition" name="specialEdition" type="text" />
-
-          <label for="imagePathFront">Image path front</label>
-          <input id="imagePathFront" name="imagePathFront" type="text" placeholder="images/filename.png" />
-
-          <label for="imagePathBack">Image path back</label>
-          <input id="imagePathBack" name="imagePathBack" type="text" placeholder="images/filename.png" />
-        </div>
-
-        <button type="submit">Create GitHub issue</button>
+        <button type="submit">Open issue form</button>
       </form>
     </main>
 
@@ -61,36 +26,14 @@
         event.preventDefault();
 
         const repoUrl = document.getElementById('repoUrl').value.trim();
-        const issueTitle = document.getElementById('issueTitle').value.trim();
 
-        if (!repoUrl || !issueTitle) {
-          alert('Please provide both a repository URL and an issue title.');
+        if (!repoUrl) {
+          alert('Please provide a repository URL.');
           return;
         }
 
-        const fields = [
-          ['Team', document.getElementById('team').value],
-          ['Year', document.getElementById('year').value],
-          ['Category', document.getElementById('category').value],
-          ['Picture Front', document.getElementById('pictureFront').value],
-          ['Picture Back', document.getElementById('pictureBack').value],
-          ['Difference to previous', document.getElementById('difference').value],
-          ['Kevin', document.getElementById('kevin').value],
-          ['Special Edition ?', document.getElementById('specialEdition').value],
-          ['Image path front', document.getElementById('imagePathFront').value],
-          ['Image path back', document.getElementById('imagePathBack').value],
-        ];
-
-        const body = [
-          '## Musette inventory issue',
-          '',
-          ...fields.map(([label, value]) => `- **${label}**: ${value || '—'}`),
-          '',
-          '_Created from the inventory issue form._',
-        ].join('\n');
-
         const normalizedRepoUrl = repoUrl.replace(/\/+$/, '');
-        const issueUrl = `${normalizedRepoUrl}/issues/new?title=${encodeURIComponent(issueTitle)}&body=${encodeURIComponent(body)}`;
+        const issueUrl = `${normalizedRepoUrl}/issues/new?template=add-musette.yml`;
 
         window.open(issueUrl, '_blank', 'noopener,noreferrer');
       });
