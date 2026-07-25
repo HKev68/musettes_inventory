@@ -30,17 +30,21 @@ body:
     validations:
       required: false
 
-  - type: input
+  - type: textarea
     id: picture-front
     attributes:
       label: Picture Front
-      placeholder: Front image URL or filename
+      description: Attach an image to the issue or paste an image URL here
+      placeholder: Drag and drop an image, or paste a URL
 
-  - type: input
+  - type: textarea
     id: picture-back
     attributes:
       label: Picture Back
-      placeholder: Back image URL or filename
+      description: Attach an image to the issue or paste an image URL here
+      placeholder: Drag and drop an image, or paste a URL
+    validations:
+      required: false
 
   - type: textarea
     id: difference
@@ -51,29 +55,16 @@ body:
     validations:
       required: false
 
-  - type: input
-    id: kevin
+  - type: dropdown
+    id: do-you-have-the-musette
     attributes:
-      label: Kevin
-      description: Use x if applicable, otherwise leave empty
-      placeholder: x
+      label: Do you have the musette?
+      options:
+        - "Yes"
+        - "No"
 
   - type: input
     id: special-edition
     attributes:
       label: Special Edition ?
       placeholder: Tour, Giro, Vuelta, etc.
-
-  - type: input
-    id: image-path-front
-    attributes:
-      label: Image path front
-      description: Path to the front image in the repository, for example images/filename.png
-
-  - type: input
-    id: image-path-back
-    attributes:
-      label: Image path back
-      description: Path to the back image in the repository, for example images/filename.png
-    validations:
-      required: false
